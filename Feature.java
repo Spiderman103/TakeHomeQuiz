@@ -1,4 +1,4 @@
 public interface Feature
 {
-	public void MainMethod(int a, int b);
+	public int MainMethod(int a, int b);
 }
